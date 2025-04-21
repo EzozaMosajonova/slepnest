@@ -105,9 +105,7 @@ const Contact = () => {
                 </form>
 
                 {/* Google Map - O‘ng taraf */}
-                <div data-aos="fade-left"
-                    data-aos-offset="300"
-                    data-aos-easing="ease-in-sine" className="w-full lg:w-1/2 h-[400px] md:h-[500px] rounded-xl overflow-hidden shadow">
+                <div className="w-full lg:w-1/2 h-[400px] md:h-[500px] rounded-xl overflow-hidden shadow">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2995.6556565564183!2d69.28311557587605!3d41.338100571306114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b5f1f5cfd49%3A0x110bc2a5ed9856b7!2sLIMSA!5e0!3m2!1sru!2s!4v1745156732902!5m2!1sru!2s"
                         width="100%"

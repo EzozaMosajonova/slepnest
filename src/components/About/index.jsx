@@ -6,7 +6,7 @@ const About = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="w-full max-w-[1440px] mx-auto px-4 md:py-16 py-6 md:mt-20 mt-10 overflow-hidden">
+    <div className="w-full max-w-[1440px] mx-auto px-4 md:py-16 py-6 mt-20  overflow-hidden">
       <div className="flex flex-col-reverse lg:flex-row items-center justify-between gap-8">
         {/* Text Qismi */}
         <div
