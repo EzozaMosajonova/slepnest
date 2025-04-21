@@ -11,7 +11,7 @@ const Hero = () => {
   return (
     <div className="w-full max-w-[1440px] mx-auto px-4 py-8 mt-20">
       {/* Hero Banner */}
-      <div className="relative w-ful  bg-[#dec895] rounded-3xl md:rounded-4xl lg:rounded-[50px] overflow-hidden">
+      <div className="relative w-ful  bg-[#dec895] rounded-3xl md:rounded-4xl lg:rounded-[50px]">
         {/* Matn qismi */}
         <div className="absolute top-8 right-5 md:top-12 md:right-10 lg:top-20 lg:right-16 text-right z-10 flex flex-col gap-3 md:gap-6 lg:gap-8">
           <h3 className="text-lg md:text-2xl lg:text-3xl font-bold">{t("hero.title1")}</h3>

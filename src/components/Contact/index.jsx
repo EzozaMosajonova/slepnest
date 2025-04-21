@@ -49,7 +49,7 @@ const Contact = () => {
     };
 
     return (
-        <div className="container max-w-[1200px] mx-auto px-4 py-12 md:mt-20 mt-10">
+        <div className="container max-w-[1440px] mx-auto px-4 py-12 md:mt-20 mt-10">
             <div className="flex flex-col lg:flex-row gap-10 items-start">
                 {/* Contact Form - Chap taraf */}
                 <form data-aos="fade-right"
