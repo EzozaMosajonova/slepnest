@@ -1,0 +1,152 @@
+{
+  "header": {
+    "home": "Bosh sahifa",
+    "collection": "To'plam",
+    "about": "Biz haqimizda",
+    "contact": "Kontaktlar"
+  },
+  "hero": {
+    "title1": "Ekologik",
+    "title2": "Toza Uyqu",
+    "title3": "Mahsulotlari"
+  },
+  "delivery": {
+    "title": "Yetkazib berish bepul",
+    "desc": "Barcha buyurtmalar uchun bepul yetkazib berish"
+  },
+  "guarantee": {
+    "title": "Qaytish kafolati",
+    "desc": "30 kunlik pulni qaytarish"
+  },
+  "help": {
+    "title": "24/7 onlayn qo'llab-quvvatlash",
+    "desc": "24/7 texnik yordam"
+  },
+  "price": {
+    "title": "Xavfsiz to'lov",
+    "desc": "Barcha to'lov usullari qabul qilinadi"
+  },
+  "characteristic": {
+    "title": "Material sifati",
+    "titleleft": "Ekologik Toza Uyqu Mahsulotlari",
+    "desc": "ko'p yillar davomida butun dunyoda foydalanish uchun paxta matolarini ishlab chiqaradigan kompaniya bo'lib kelgan",
+    "button": "To'plam"
+  },
+  "winter": {
+    "title": "Qish kolleksiyasi",
+    "desc": "Ekologik Toza Uyqu Mahsulotlari",
+    "desc1": "Kvadratchalar",
+    "desc2": "Ikat",
+    "desc3": "Davralar",
+    "desc4": "Geometriya ko'k",
+    "desc5": "Tropik barglar",
+    "desc6": "Bambi",
+    "desc7": "Vizantiya",
+    "desc8": "Kechki bog'",
+    "desc9": "Pat markiz",
+    "desc10": "Lavanda atirgullari"
+  },
+  "autum": {
+    "title": "Kuz kolleksiyasi",
+    "desc": "Ekologik Toza Uyqu Mahsulotlari",
+    "desc1": "Safari",
+    "desc2": "Ko'p rangli ametist",
+    "desc3": "Shivali bezak",
+    "desc4": "Zumrad (AB)",
+    "desc5": "Malaxit qutisi",
+    "desc6": "Bahorning hidlari",
+    "desc7": "Kuz barglar tushishi (AB)",
+    "desc8": "Moviy shabada'",
+    "desc9": "Moviy suv",
+    "desc10": "Plaid"
+  },
+  "summer": {
+    "title": "Yozgi kolleksiya",
+    "desc": "Ekologik Toza Uyqu Mahsulotlari",
+    "desc1": "Vintage uslubi",
+    "desc2": "Tebranayotgan karahindiba",
+    "desc3": "Fransuz Riviera",
+    "desc4": "Qo'y Dolli",
+    "desc5": "Alp tog'lari o'simliklari",
+    "desc6": "Ilhomlantiruvchi",
+    "desc7": "Yashil lotus",
+    "desc8": "Tog'li makkajo'xori'",
+    "desc9": "Sakura filiali",
+    "desc10": "Zaytun novdasi"
+  },
+  "news": {
+    "title": "Yangiliklar",
+    "desc": "Ekologik Toza Uyqu Mahsulotlari",
+    "cardSubtitir": "admin tomonidan",
+    "cardTitle": "Qanday qilib mukammal gadjetlarni tanlash mumkin",
+    "cardDesc": "Go'zal vodiyning bug' bilan to'lganda va meridian quyoshi tepalikka urilganda...",
+    "cardTitle2": "Zamonaviy texnologiyalardan qanday foydalanish kerak",
+    "cardDesc2": "Texnologiyalar hayotimizni qanday o'zgartirishi haqida qiziqarli hikoyalar...",
+    "cardTitle3": "Kreativ g'oyalarni amalga oshirish yo'llari",
+    "cardDesc3": "Ko'plab yangi kashfiyotlar yaratish jarayonida qanday qiyinchiliklarga duch kelinadi..."
+  },
+  "footer": {
+    "desc": "“Ekologik Toza Uyqu Mahsulotlat” koʻp yillardan buyon butun dunyoda foydalanish uchun paxta matolari ishlab chiqaradigan kompaniya hisoblanadi.",
+    "title1": "menyu",
+    "menyuTitle": "Bosh sahifa",
+    "menyuTitle2": "To'plam",
+    "menyuTitle3": "Biz haqimizda",
+    "contact": "Kontaktlar",
+    "adress": "Buxoro, st. Alpomish 80.",
+    "email": "Email: sleepnest@gamil.com",
+    "emailTitle": "Elektron pochtamizga obuna bo'ling",
+    "emaildesc": "Kamida bitta roʻyxatni tanlang.",
+    "button": "Obuna bo'ling",
+    "footerbt": "© 2024 MChJ Ekologik Toza Uyqu Mahsulotlari Barcha huquqlar himoyalangan"
+  },
+  "about": {
+    "title": "Ekologik Toza Uyqu Mahsulotlari",
+    "desc1": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda.",
+    "desc2": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda.",
+    "desc3": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda.",
+    "desc4": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda.",
+    "desc5": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda.",
+    "desc6": "Matolarimiz va ekologik sumkalar ishlab chiqaruvchi korxonamiz uzoq yillardan beri paxta matolarini global bozorda yetkazib berib kelmoqda."
+  },
+  "contact": {
+    "title": "Aloqa",
+    "email": "Sizni email pochtangiz",
+    "tel": "Telefon raqamingiz",
+    "message": "Sizni xabaringiz bo'lsa yozing",
+    "button": "Yuborish",
+     "adress":"Buxoro, st. Alpomish 80."
+  },
+  "category": {
+    "title": "To'plam",
+    "desc": "Barcha kategoriyalar",
+    "winter":"Qish kolleksiyasi",
+    "autum":"Kuz kolleksiyasi",
+    "summer":"Yoz kolleksiyasi"
+  },
+  "product": {
+    "title": "Moviy shabada",
+    "cardTitle1": "Material:",
+    "cardDesc1": "100% paxta flanel",
+    "cardTitle2": "Yostiq kiyimi::",
+    "cardDesc2": "50x70 sm (2 dona)",
+    "cardTitle3": "Choyshab::",
+    "cardDesc3": "260×280 sm (1 dona)",
+    "cardTitle4": "Ko'rpa-to'shak:",
+    "cardDesc4": "160x220 sm (2 dona)",
+    "cardTitle5": "Hajmi:",
+    "cardDesc5": "Maxsus o'lcham",
+    "cardTitle6": "Ishlab chiqaruvchi::",
+    "cardDesc6": "Ekologik Toza Uyqu Mahsulotlat"
+  },
+  "comment": {
+    "title": "Mahsulot haqida sharhlar",
+    "desc": "Hozircha sharhlar yo'q.",
+    "titleForm": "O'z sharhingizni qoldiring",
+    "stars": "Sizning reytingingiz:",
+    "desc1": "Ism*",
+    "desc2": "Elektron pochta *",
+    "desc3": "Sizning sharhingiz *",
+    "button": "Sharhni yuborish",
+    "titlebtn": "Shunga o'xshash mahsulotlar"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "header": {
+    "home": "Home",
+    "collection": "Collection",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title1": "Eco-Friendly",
+    "title2": "Clean Sleep",
+    "title3": "Products"
+  },
+  "delivery": {
+    "title": "Free Delivery",
+    "desc": "Free delivery for all orders"
+  },
+  "guarantee": {
+    "title": "Return Guarantee",
+    "desc": "30-day money-back guarantee"
+  },
+  "help": {
+    "title": "24/7 Online Support",
+    "desc": "Technical support 24/7"
+  },
+  "price": {
+    "title": "Secure Payment",
+    "desc": "All payment methods are accepted"
+  },
+  "characteristic": {
+    "title": "Material Quality",
+    "titleleft": "Eco-Friendly Sleep Products",
+    "desc": "A company that has been producing cotton fabrics for years for global use",
+    "button": "Collection"
+  },
+  "winter": {
+    "title": "Winter Collection",
+    "desc": "Eco-Friendly Sleep Products",
+    "desc1": "Squares",
+    "desc2": "Ikat",
+    "desc3": "Circles",
+    "desc4": "Blue Geometry",
+    "desc5": "Tropical Leaves",
+    "desc6": "Bambi",
+    "desc7": "Byzantine",
+    "desc8": "Evening Garden",
+    "desc9": "Feather Marquis",
+    "desc10": "Lavender Roses"
+  },
+  "autum": {
+    "title": "Autumn Collection",
+    "desc": "Eco-Friendly Sleep Products",
+    "desc1": "Safari",
+    "desc2": "Multicolor Amethyst",
+    "desc3": "Ornamental Design",
+    "desc4": "Emerald (AB)",
+    "desc5": "Malachite Box",
+    "desc6": "Spring Scents",
+    "desc7": "Falling Autumn Leaves (AB)",
+    "desc8": "Blue Breeze",
+    "desc9": "Blue Water",
+    "desc10": "Plaid"
+  },
+  "summer": {
+    "title": "Summer Collection",
+    "desc": "Eco-Friendly Sleep Products",
+    "desc1": "Vintage Style",
+    "desc2": "Dancing Dandelion",
+    "desc3": "French Riviera",
+    "desc4": "Sheep Dolly",
+    "desc5": "Alpine Herbs",
+    "desc6": "Inspiring",
+    "desc7": "Green Lotus",
+    "desc8": "Mountain Cornflower",
+    "desc9": "Sakura Branch",
+    "desc10": "Olive Branch"
+  },
+  "news": {
+    "title": "News",
+    "desc": "Eco-Friendly Sleep Products",
+    "cardSubtitir": "by admin",
+    "cardTitle": "How to Choose the Perfect Gadgets",
+    "cardDesc": "When the valley is filled with mist and the meridian sun hits the hilltop...",
+    "cardTitle2": "How to Use Modern Technologies",
+    "cardDesc2": "Interesting stories about how technologies can transform our lives...",
+    "cardTitle3": "Ways to Implement Creative Ideas",
+    "cardDesc3": "Challenges faced in the process of creating many new discoveries..."
+  },
+  "footer": {
+    "desc": "“Eco-Friendly Sleep Products” has been a company producing cotton fabrics for global use for many years.",
+    "title1": "Menu",
+    "menyuTitle": "Home",
+    "menyuTitle2": "Collection",
+    "menyuTitle3": "About Us",
+    "contact": "Contact",
+    "adress": "Bukhara, st. Alpomish 80.",
+    "email": "Email: sleepnest@gamil.com",
+    "emailTitle": "Subscribe to our newsletter",
+    "emaildesc": "Select at least one list.",
+    "button": "Subscribe",
+    "footerbt": "© 2024 LLC Eco-Friendly Sleep Products. All rights reserved"
+  },
+  "about": {
+    "title": "Eco-Friendly Sleep Products",
+    "desc1": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years.",
+    "desc2": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years.",
+    "desc3": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years.",
+    "desc4": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years.",
+    "desc5": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years.",
+    "desc6": "Our company producing fabrics and eco-bags has been supplying cotton fabrics to the global market for many years."
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "Your email address",
+    "tel": "Your phone number",
+    "message": "Write your message here",
+    "button": "Send",
+    "adress": "Bukhara, st. Alpomish 80"
+  },
+  "category": {
+    "title": "Collection",
+    "desc": "All categories",
+    "winter": "Winter collection",
+    "autum": "Autumn collection",
+    "summer": "Summer collection"
+  },
+  "product": {
+    "title": "Blue Breeze",
+    "cardTitle1": "Material:",
+    "cardDesc1": "100% cotton flannel",
+    "cardTitle2": "Pillowcase:",
+    "cardDesc2": "50x70 cm (2 pcs)",
+    "cardTitle3": "Bed Sheet:",
+    "cardDesc3": "260×280 cm (1 pc)",
+    "cardTitle4": "Duvet Cover:",
+    "cardDesc4": "160x220 cm (2 pcs)",
+    "cardTitle5": "Size:",
+    "cardDesc5": "Custom size",
+    "cardTitle6": "Manufacturer:",
+    "cardDesc6": "Eco-Friendly Sleep Products",
+    "cardTitle7": "Category:",
+    "cardDesc17": "Autumn Collection"
+  },
+  "comment": {
+    "title": "Product Reviews",
+    "desc": "No reviews yet.",
+    "titleForm": "Leave Your Review",
+    "stars": "Your Rating:",
+    "desc1": "Name*",
+    "desc2": "Email *",
+    "desc3": "Your Review *",
+    "button": "Submit Review",
+    "titlebtn": "Similar Products"
+  }
+}
