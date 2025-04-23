@@ -1,22 +1,22 @@
 // pages/Favorites.jsx
 import React from "react";
 import { FaHeart } from "react-icons/fa";
-import { useNavigate } from "react-router-dom"; // useNavigate hooki navigatsiya uchun
+import { useNavigate } from "react-router-dom";
 import { useFavoriteStore } from "../../store/uselikestore";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
 export default function Favorites() {
-    const { t } = useTranslation(); // Tarjima olish
-    const { favorites, toggleFavorite } = useFavoriteStore(); // Zustand store dan foydalanish
-    const navigate = useNavigate(); // Navigatsiya qilish uchun useNavigate hooki
+    const { t } = useTranslation();
+    const { favorites, toggleFavorite } = useFavoriteStore();
+    const navigate = useNavigate();
 
     const goToItemDetail = (id) => {
-        navigate(`/item/${id}`); // Mahsulotning batafsil sahifasiga o'tish
+        navigate(`/item/${id}`);
     };
 
     if (favorites.length === 0) {
-        return <div className="p-6 text-center text-gray-500">Afsus sevimlilar yo'q</div>;
+        return <div className="p-6 text-center text-gray-500">{t("favorites.empty") || "Afsus sevimlilar yo'q"}</div>;
     }
 
     return (
@@ -37,8 +37,8 @@ export default function Favorites() {
                         </Link>
                         <button
                             onClick={(e) => {
-                                e.stopPropagation(); // Divni bosganda mahsulotni tanlashni to'xtatadi
-                                toggleFavorite(item); // Tanlangan mahsulotni sevimlilar ro'yxatiga qo'shish
+                                e.stopPropagation();
+                                toggleFavorite(item);
                             }}
                             className="absolute top-2 right-2 bg-white rounded-full p-2 shadow hover:scale-110 transition"
                         >
@@ -47,7 +47,9 @@ export default function Favorites() {
                                     }`}
                             />
                         </button>
-                        <h1 className="mt-2 text-center font-semibold text-sm">{item.name}</h1>
+                        <h1 className="mt-2 text-center font-semibold text-sm">
+                            {t(item.name)}
+                        </h1>
                     </div>
                 ))}
             </div>

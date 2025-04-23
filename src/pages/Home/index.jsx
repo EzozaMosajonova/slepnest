@@ -5,7 +5,6 @@ import Qish from '../../components/Home/Qish'
 import Sifat2 from '../../components/Home/Sifat2'
 import Autum from '../../components/Home/Autum'
 import Sifat3 from '../../components/Home/Sifat3'
-import New from '../../components/Home/New'
 import News from '../../components/Home/News'
 import Summer from '../../components/Home/Summer'
 

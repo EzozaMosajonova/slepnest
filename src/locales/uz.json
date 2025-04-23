@@ -83,7 +83,8 @@
     "cardTitle2": "Zamonaviy texnologiyalardan qanday foydalanish kerak",
     "cardDesc2": "Texnologiyalar hayotimizni qanday o'zgartirishi haqida qiziqarli hikoyalar...",
     "cardTitle3": "Kreativ g'oyalarni amalga oshirish yo'llari",
-    "cardDesc3": "Ko'plab yangi kashfiyotlar yaratish jarayonida qanday qiyinchiliklarga duch kelinadi..."
+    "cardDesc3": "Ko'plab yangi kashfiyotlar yaratish jarayonida qanday qiyinchiliklarga duch kelinadi...",
+    "titleBt": "Go‘zal vodiy atrofimni bug‘ bilan to‘ldirganda va meridian quyoshi daraxtlarimning o‘tib bo‘lmas barglarining ustki yuzasiga urilib, ichkaridagi ma’badga bir nechta adashgan yaltirab kirsa, men o‘zimni baland o‘tlar orasiga tashlab ketaman. oqayotgan oqim; Yerga yaqin yotganimda, minglab noma’lum o‘simliklar ko‘z oldimga keladi: poyalar orasidan kichkina dunyoning shovqin-suronini eshitib, hasharotlar va pashshalarning ta’riflab bo‘lmaydigan ko‘rinishlari bilan tanishganimda, men bizni o'z qiyofasida shakllantirgan Qodir Tangrining borligi va bizni ko'tarib turuvchi va qo'llab-quvvatlovchi o'sha umumbashariy muhabbat nafasi, u atrofimizda abadiy saodatda suzib yuradi; Shunda, do‘stim, ko‘zlarimni zulmat qoplaganda, osmonu yer qalbimda o‘rnashib, uning kuchini xuddi suyukli bekasi qiyofasiga singdirayotganday bo‘lsa, men ko‘pincha sog‘inch bilan o‘ylayman: “Oh, bu tushunchalarni tasvirlab berardimmi? Mening qalbim cheksiz Xudoning ko'zgusi bo'lgani kabi, u mening qalbimning ko'zgusi bo'lishi uchun ichimda yashovchi hamma narsani qog'ozga ta'sir qilishi mumkin!"
   },
   "footer": {
     "desc": "“Ekologik Toza Uyqu Mahsulotlat” koʻp yillardan buyon butun dunyoda foydalanish uchun paxta matolari ishlab chiqaradigan kompaniya hisoblanadi.",
@@ -114,14 +115,14 @@
     "tel": "Telefon raqamingiz",
     "message": "Sizni xabaringiz bo'lsa yozing",
     "button": "Yuborish",
-     "adress":"Buxoro, st. Alpomish 80."
+    "adress": "Buxoro, st. Alpomish 80."
   },
   "category": {
     "title": "To'plam",
     "desc": "Barcha kategoriyalar",
-    "winter":"Qish kolleksiyasi",
-    "autum":"Kuz kolleksiyasi",
-    "summer":"Yoz kolleksiyasi"
+    "winter": "Qish kolleksiyasi",
+    "autum": "Kuz kolleksiyasi",
+    "summer": "Yoz kolleksiyasi"
   },
   "product": {
     "title": "Moviy shabada",

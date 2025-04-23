@@ -14,7 +14,7 @@ export const newsItems = [
     title: "news.cardTitle",
     desc: "news.cardDesc",
     img: News1,
-    content: "Bu yerda yangilik haqida batafsil ma'lumotlar bo'ladi."
+    titleBt:"news.titleBt"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ export const newsItems = [
     title: "news.cardTitle2",
     desc: "news.cardDesc2",
     img: News2,
-    content: "Bu yerda yangilik haqida batafsil ma'lumotlar bo'ladi."
+    titleBt:"news.titleBt"
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ export const newsItems = [
     title: "news.cardTitle3",
     desc: "news.cardDesc3",
     img: News3,
-    content: "Bu yerda yangilik haqida batafsil ma'lumotlar bo'ladi."
+    titleBt:"news.titleBt"
   }
 ];
 

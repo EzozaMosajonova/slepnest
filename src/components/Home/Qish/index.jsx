@@ -37,7 +37,7 @@ export default function Qish() {
   };
 
   return (
-    <div className="w-full max-w-[1440px] mx-auto px-4 py-16 mt-20">
+    <div className="w-full max-w-[1440px] mx-auto px-4 md:py-16 py-6 md:mt-20 mt-0">
       <h1 className="md:text-5xl text-3xl mb-2 font-extrabold text-center">{t("winter.title")}</h1>
       <h1 className="md:text-xl text-lg mb-15 font-bold text-center">{t("winter.desc")}</h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
