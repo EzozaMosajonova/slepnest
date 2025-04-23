@@ -1,9 +1,10 @@
 import React from "react";
 import BannerImg from "../../../assets/heroImg.png";
 import { useTranslation } from "react-i18next";
-import { TbTruckDelivery } from "react-icons/tb";
-import { IoShieldCheckmarkOutline, IoWalletOutline } from "react-icons/io5";
-import { SlEarphones } from "react-icons/sl";
+import { CiDeliveryTruck } from "react-icons/ci";
+import { AiOutlineFileProtect } from "react-icons/ai";
+import { IoWalletOutline } from "react-icons/io5";
+import { MdOutlineHeadphones } from "react-icons/md";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -23,7 +24,7 @@ const Hero = () => {
         <img
           src={BannerImg}
           alt="Yotoq to‘plami"
-          className="md:block  absolute bottom-0 left-0 top-0 md:left-0 md:-bottom-28 w-full h-auto md:w-[90%] object-cover "/>
+          className="md:block  absolute bottom-0 left-0 top-0 md:left-0 md:-bottom-28 w-full h-auto md:w-[90%] object-cover " />
 
         {/* Banner balandligi */}
         <div className="h-[200px] sm:h-[400px] md:h-[500px] lg:h-[600px]"></div>
@@ -34,22 +35,22 @@ const Hero = () => {
         {/* Har bir xizmat */}
         {[
           {
-            icon: <TbTruckDelivery className="text-red-400 text-[60px] sm:text-[70px] lg:text-[90px]" />,
+            icon: <CiDeliveryTruck className="text-red-400 text-[80px]" />,
             title: t("delivery.title"),
             desc: t("delivery.desc"),
           },
           {
-            icon: <IoShieldCheckmarkOutline className="text-red-400 text-[50px] sm:text-[60px] lg:text-[80px]" />,
+            icon: <AiOutlineFileProtect className="text-red-400 text-[80px]" />,
             title: t("guarantee.title"),
             desc: t("guarantee.desc"),
           },
           {
-            icon: <SlEarphones className="text-red-400 text-[60px] sm:text-[70px] lg:text-[80px]" />,
+            icon: <MdOutlineHeadphones className="text-red-400 text-[80px]" />,
             title: t("help.title"),
             desc: t("help.desc"),
           },
           {
-            icon: <IoWalletOutline className="text-red-400 text-[60px] sm:text-[70px] lg:text-[80px]" />,
+            icon: <IoWalletOutline className="text-red-400 text-[80px]" />,
             title: t("price.title"),
             desc: t("price.desc"),
           },
@@ -63,6 +64,7 @@ const Hero = () => {
           </div>
         ))}
       </div>
+
     </div>
   );
 };

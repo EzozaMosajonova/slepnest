@@ -5,6 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { useFavoriteStore } from "../../store/uselikestore";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import { IoMdArrowRoundBack } from "react-icons/io";
 
 export default function Favorites() {
     const { t } = useTranslation();
@@ -16,11 +17,15 @@ export default function Favorites() {
     };
 
     if (favorites.length === 0) {
-        return <div className="p-6 text-center text-gray-500">{t("favorites.empty") || "Afsus sevimlilar yo'q"}</div>;
+        return <div className="p-6 text-center mt-50  text-black"> {"No favorites"}</div>;
     }
 
     return (
         <div className="py-6 max-w-[1440px] mx-auto px-4 mt-25">
+             <button
+                    onClick={() => navigate(-1)}
+                    className="mb-4 text-black hover:underline font-medium cursor-pointer"
+                  ><IoMdArrowRoundBack className="text-3xl" /></button>
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
                 {favorites.map((item) => (
                     <div

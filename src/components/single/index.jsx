@@ -1,13 +1,15 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import useItems from "../../item/item.js"; // ✅ to‘g‘ri import
 import { useTranslation } from "react-i18next";
 import axios from "axios";
 import { toast, ToastContainer } from "react-toastify";
+import { IoMdArrowRoundBack } from "react-icons/io";
 
 export default function Single() {
     const { t } = useTranslation();
     const { id } = useParams();
+    const navigate =useNavigate()
 
     const items = useItems(); // ✅ custom hookni chaqirish
     const item = items.find((i) => i.id === parseInt(id));
@@ -53,6 +55,11 @@ export default function Single() {
 
     return (
         <div className="max-w-[1420px] mx-auto px-4 py-10 space-y-16 md:mt-20 mt-10">
+             
+            <button
+                onClick={() => navigate(-1)}
+                className="mb-4 text-black hover:underline font-medium cursor-pointer"
+            ><IoMdArrowRoundBack className="text-3xl"/></button>
             <div className="flex flex-col lg:flex-row gap-8">
                 <div className="w-full lg:w-1/2">
                     <img
