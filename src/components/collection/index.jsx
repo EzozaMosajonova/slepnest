@@ -34,13 +34,13 @@ const Collection = () => {
   });
 
   return (
-    <div className="w-full max-w-[1440px] mx-auto px-4 py-16 md:mt-20 mt-10">
+    <div className="w-full max-w-[1440px] mx-auto px-4 py-16 md:mt-23 mt-13">
       {/* Mobil (va umumiy) qidiruv va kategoriya tugmalari */}
       <div className="w-full flex flex-col gap-4 md:hidden">
         {/* Qidiruv */}
         {/* Kategoriyalar (mobil tugmalar) */}
         <div className="overflow-x-auto no-scrollbar mb-10">
-          <div className="flex gap-3 w-max">
+          <div className="flex gap-3 w-max mt-10">
             {categories.map((cat) => (
               <button
                 key={cat.key}

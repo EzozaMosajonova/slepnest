@@ -27,7 +27,7 @@ const Hero = () => {
           className="md:block  absolute bottom-0 left-0 top-0 md:left-0 md:-bottom-28 w-full h-auto md:w-[90%] object-cover " />
 
         {/* Banner balandligi */}
-        <div className="h-[200px] sm:h-[420px] md:h-[520px] lg:h-[550px]"></div>
+        <div className="h-[260px] sm:h-[450px] md:h-[540px] lg:h-[550px]"></div>
       </div>
 
       {/* Xizmatlar bo‘limi */}
