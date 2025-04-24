@@ -8,7 +8,7 @@ const Sifat3 = () => {
   const navigate =useNavigate()
   return (
     <div className="w-full max-w-[1440px] mx-auto px-4 py-16 relative md:mt-0 mt-10">
-      <div className="relative bg-[#48965d] text-white  h-[500px] md:h-auto rounded-3xl p-6 md:p-10 lg:p-16 shadow-[0_10px_60px_-15px_rgba(255,0,90,0.4)] ">
+      <div className="relative bg-[#48965d] text-white  h-[550px] md:h-auto rounded-3xl p-6 md:p-10 lg:p-16 shadow-[0_10px_60px_-15px_rgba(255,0,90,0.4)] ">
 
         {/* Rasm - ustki qatlamda markazga chiqarilgan */}
         <img
