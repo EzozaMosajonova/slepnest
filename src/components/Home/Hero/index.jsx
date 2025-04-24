@@ -10,7 +10,7 @@ const Hero = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="w-full max-w-[1440px] mx-auto px-4 py-8 mt-20">
+    <div className="w-full max-w-[1440px] mx-auto px-4 py-8 mt-25">
       {/* Hero Banner */}
       <div className="relative w-ful  bg-[#dec895] rounded-3xl md:rounded-4xl lg:rounded-[50px]">
         {/* Matn qismi */}
@@ -27,7 +27,7 @@ const Hero = () => {
           className="md:block  absolute bottom-0 left-0 top-0 md:left-0 md:-bottom-28 w-full h-auto md:w-[90%] object-cover " />
 
         {/* Banner balandligi */}
-        <div className="h-[260px] sm:h-[450px] md:h-[540px] lg:h-[550px]"></div>
+        <div className="h-[270px] sm:h-[490px] md:h-[550px] lg:h-[550px]"></div>
       </div>
 
       {/* Xizmatlar bo‘limi */}
