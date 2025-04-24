@@ -27,11 +27,11 @@ const Hero = () => {
           className="md:block  absolute bottom-0 left-0 top-0 md:left-0 md:-bottom-28 w-full h-auto md:w-[90%] object-cover " />
 
         {/* Banner balandligi */}
-        <div className="h-[200px] sm:h-[400px] md:h-[500px] lg:h-[600px]"></div>
+        <div className="h-[200px] sm:h-[420px] md:h-[520px] lg:h-[550px]"></div>
       </div>
 
       {/* Xizmatlar bo‘limi */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:mt-28 mt-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:mt-35 mt-15">
         {/* Har bir xizmat */}
         {[
           {

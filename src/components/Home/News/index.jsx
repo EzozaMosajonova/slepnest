@@ -42,7 +42,7 @@ export default function News() {
   const navigate = useNavigate();
 
   return (
-    <div className="w-full max-w-[1440px] mx-auto px-4 py-16 mt-10">
+    <div className="w-full max-w-[1440px] mx-auto px-4 py-16 mt-0">
       <h1 className="md:text-5xl text-3xl mb-2 font-extrabold text-center">{t("news.title")}</h1>
       <h1 className="md:text-xl text-lg mb-15 font-bold text-center">{t("news.desc")}</h1>
       <div className="grid md:grid-cols-3 gap-6">

@@ -35,7 +35,7 @@ const Header = () => {
     `text-lg font-bold transition ${location.pathname === path ? 'text-[#875b2f]' : 'text-gray-500'}`;
 
   return (
-    <nav className={`fixed ${scrolled ? "bg-white" : "dark:bg-white shadow-md"} top-0 left-0 right-0 z-50`}>
+    <nav className={`fixed ${scrolled ? "bg-white" : "dark:bg-white shadow-md"} top-0 left-0 right-0 z-50 p-3`}>
       <div id='home' className="max-w-[1420px] container mx-auto py-4 relative">
         <div className="flex items-center justify-between">
           {/* Logo */}
